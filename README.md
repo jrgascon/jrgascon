@@ -26,19 +26,7 @@ computer vision and artificial intelligence.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,django,postgres,mysql,git,github,vscode"/>
-
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jrgascon&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrgascon&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,postgres,mysql,git,github,vscode"/>
 
 </p>
 
@@ -96,9 +84,8 @@ for automatic potato leaf analysis.
 # 📚 Currently Learning
 
 ```text
-✔ React
+✔ Python
 ✔ Django
-✔ Node.js
 ✔ PostgreSQL
 ✔ Machine Learning
 ✔ Deep Learning
@@ -110,7 +97,7 @@ for automatic potato leaf analysis.
 
 <p align="center">
 
-<a href="mailto:gasconj011"gmail.com">
+<a href="mailto:gasconj011@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -144,7 +131,6 @@ class JoseRamon:
 
     def interests(self):
         return [
-            "Computer Vision",
             "Artificial Intelligence",
             "Full Stack Development",
             "Open Source"
