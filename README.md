@@ -88,16 +88,6 @@ for automatic potato leaf analysis.
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=jrgascon&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
 # ⚡ Fun Fact
 
 ```python
