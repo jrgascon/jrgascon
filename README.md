@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Jose Ramon
 
 <h3 align="center">
-💻 Computer Science Student | 🐍 Python Developer | 🌱 Full Stack Enthusiast
+💻 Computer Science | 🐍 Python Developer | 🌱 Full Stack Enthusiast
 </h3>
 
 <p align="center">
@@ -26,7 +26,7 @@ computer vision and artificial intelligence.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,django,postgres,mysql,git,github,vscode,opencv,linux"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,django,postgres,mysql,git,github,vscode"/>
 
 </p>
 
@@ -36,9 +36,9 @@ computer vision and artificial intelligence.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jrgascon&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrgascon&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -48,7 +48,7 @@ computer vision and artificial intelligence.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=jrgascon&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -58,7 +58,7 @@ computer vision and artificial intelligence.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jrgascon&theme=tokyo-night"/>
 
 </p>
 
@@ -68,7 +68,7 @@ computer vision and artificial intelligence.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jrgascon&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -110,11 +110,11 @@ for automatic potato leaf analysis.
 
 <p align="center">
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:gasconj011"gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/josé-ramón-gascón-enriquez-a2a455325">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -126,7 +126,7 @@ for automatic potato leaf analysis.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=jrgascon&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -162,7 +162,7 @@ print(me.motto())
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrgascon&theme=tokyonight"/>
 
 </p>
 
@@ -170,9 +170,9 @@ print(me.motto())
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TU_USUARIO&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrgascon&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TU_USUARIO&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jrgascon&theme=tokyonight"/>
 
 </p>
 
@@ -180,9 +180,9 @@ print(me.motto())
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USUARIO&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrgascon&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TU_USUARIO&theme=tokyonight&utcOffset=-4"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jrgascon&theme=tokyonight&utcOffset=-4"/>
 
 </p>
 
