@@ -1,21 +1,20 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Jose Ramon
 
 <h3 align="center">
-💻 Computer Science | 🐍 Python Developer | 🌱 Full Stack Enthusiast
+💻 Software Engineer | 🐍 Python Developer | 🌐 Full Stack Developer | 🤖 AI
 </h3>
 
 <p align="center">
-I enjoy developing software that solves real-world problems through programming,
-computer vision and artificial intelligence.
+I enjoy developing software that solves real-world problems through programming, and artificial intelligence.
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Computer Science Student
+- 💻 Software Engineer
 - 💻 Passionate about Software Development
-- 🤖 Interested in Artificial Intelligence and Computer Vision
+- 🤖 Interested in Artificial Intelligence
 - 🌐 Learning Full Stack Development
 - 🐍 Python Lover
 - 📚 Always learning new technologies
@@ -32,31 +31,11 @@ computer vision and artificial intelligence.
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jrgascon&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrgascon&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jrgascon&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
