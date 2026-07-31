@@ -1,4 +1,4 @@
-## I am Jose Ramon
+## I am Jose Ramon.
 
 <!--
 **jrgascon/jrgascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
